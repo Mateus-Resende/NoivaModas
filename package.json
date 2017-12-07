@@ -6,6 +6,7 @@
     "concurrently": "^3.5.1",
     "electron-db": "^0.7.1",
     "font-awesome": "^4.7.0",
+    "material-ui": "^0.20.0",
     "nodemon": "^1.12.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -21,7 +22,7 @@
     "eject": "react-scripts eject",
     "electron": "electron .",
     "react-start": "BROWSER=none react-scripts start",
-    "electron-start": "nodemon src/electron-wait-react",
+    "electron-start": "node src/electron-wait-react",
     "start": "nf start -p 3000"
   },
   "devDependencies": {
