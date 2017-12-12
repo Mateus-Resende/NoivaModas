@@ -5,6 +5,7 @@
   "dependencies": {
     "bcrypt-node": "^0.1.0",
     "concurrently": "^3.5.1",
+    "electron-db": "^0.7.1",
     "font-awesome": "^4.7.0",
     "material-ui": "^0.20.0",
     "nodemon": "^1.12.4",
